@@ -1,0 +1,26 @@
+*{
+  padding: 0%;  
+}
+
+
+
+body{
+    background: #000;
+}
+ul{
+    display: inline;
+    text-decoration: none;
+}
+li{
+    display: inline;
+    text-decoration: none;
+}
+a{
+    font-weight: 400;
+    font-size: 20px;
+    color: #fff;
+}
+li a{
+    background-color: darkgreen;
+    text-decoration: none;
+}
